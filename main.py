@@ -1,3 +1,3 @@
-'''main file''' 
+'''this file contains some math formulas''' 
 
-print ("main_file")
+print (" 3 + 5 = ", 3+5)
