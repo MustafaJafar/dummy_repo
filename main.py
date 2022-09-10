@@ -1,3 +1,6 @@
 '''this file contains some math formulas''' 
+import circle
 
-print (" 3 + 5 = ", 3+5)
+radius = 3 
+print("circum = ", circle.circumference(3))
+print("area = ", circle.area(3))
